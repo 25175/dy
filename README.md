@@ -1,1 +1,25 @@
-dm1lc3M6Ly9leUpvYjNOMElqb2lZbUZwWkhWalpHNWpiVzR5TG1sdWRHVnlMbWx4YVhscExtTnZiU0lzSW5CaGRHZ2lPaUl2SWl3aWRHeHpJam9pSWl3aWRtVnlhV1o1WDJObGNuUWlPblJ5ZFdVc0ltRmtaQ0k2SWpJd0xqSTBMamcxTGpFeU5pSXNJbkJ2Y25RaU9qZ3dMQ0poYVdRaU9qQXNJbTVsZENJNkluZHpJaXdpYUdWaFpHVnlWSGx3WlNJNkltNXZibVVpTENKMklqb2lNaUlzSW5SNWNHVWlPaUoyYldWemN5SXNJbkJ6SWpvaTZhYVo1cml2NVlXTjVyV0I2SXFDNTRLNU1lV1B0M3pvcDZQcGxJSG10WUhscXBMa3ZaTjhNVEJIY0hNaUxDSnlaVzFoY21zaU9pTHBwcG5tdUsvbGhZM210WUhvaW9Mbmdya3g1WSszZk9pbm8rbVVnZWExZ2VXcWt1UzlrM3d4TUVkd2N5SXNJbWxrSWpvaU16Um1aalUyTm1JdE5tRTNZUzB6WmpaaUxXRTBZVGN0WVdOak1EUTJNakpqWmpneElpd2lZMnhoYzNNaU9qSjk=
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>192.168.0.0/16</string>
+	<string>10.0.0.0/8</string>
+	<string>172.16.0.0/12</string>
+	<string>127.0.0.1</string>
+	<string>localhost</string>
+	<string>*.local</string>
+	<string>bettertouchtool.net</string>
+	<string>updates.bettertouchtool.net</string>
+	<string>folivora.ai</string>
+	<string>updates.folivora.ai</string>
+	<string>updates.boastr.net</string>
+	<string>updates.boastr.net</string>
+	<string>folivora.ai</string>
+	<string>bettertouchtool.net</string>
+	<string>updates.folivora.ai</string>
+	<string>rogueamoeba.net</string>
+	<string>murusfirewall.com</string>
+	<string>www.murusfirewall.com</string>
+	<string>www.zhenbuka2.com</string>
+</array>
+</plist>
