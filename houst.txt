@@ -1,0 +1,21 @@
+# Update time : 2020.9.12
+
+DOMAIN,192.168.0.0/16,REJECT
+DOMAIN,10.0.0.0/8,REJECT
+DOMAIN,172.16.0.0/12,REJECT
+DOMAIN,127.0.0.1,REJECT
+DOMAIN,localhost,REJECT
+DOMAIN,*.local,REJECT
+DOMAIN,bettertouchtool.net,REJECT
+DOMAIN,updates.bettertouchtool.net,REJECT
+DOMAIN,folivora.ai,REJECT
+DOMAIN,updates.folivora.ai,REJECT
+DOMAIN,updates.boastr.net,REJECT
+DOMAIN,updates.boastr.net,REJECT
+DOMAIN,folivora.ai,REJECT
+DOMAIN,bettertouchtool.net,REJECT
+DOMAIN,updates.folivora.ai,REJECT
+DOMAIN,rogueamoeba.net,REJECT
+DOMAIN,murusfirewall.com,REJECT
+DOMAIN,www.murusfirewall.com,REJECT
+DOMAIN,www.zhenbuka2.com,REJECT
