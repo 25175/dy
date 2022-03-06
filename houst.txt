@@ -19,3 +19,17 @@ DOMAIN,rogueamoeba.net,REJECT
 DOMAIN,murusfirewall.com,REJECT
 DOMAIN,www.murusfirewall.com,REJECT
 DOMAIN,www.zhenbuka2.com,REJECT
+DOMAIN,creative-adchoices.advertise.quantcast.com,REJECT
+DOMAIN,adsgo.nhipcaudautu.vn,REJECT
+DOMAIN,clientmetrics-pa.googleapis.com,REJECT
+DOMAIN,ad-creatives-public.commondatastorage.googleapis.com,REJECT
+DOMAIN,clientmetrics-pa.googleapis.com,REJECT
+DOMAIN,clientservices.googleapis.com,REJECT
+DOMAIN,clouderrorreporting.googleapis.com,REJECT
+DOMAIN,crashlyticsreports-pa.googleapis.com,REJECT
+DOMAIN,firebaselogging*.googleapis.com,REJECT
+DOMAIN,firebaselogging-pa.googleapis.com,REJECT
+DOMAIN,firebaselogging.googleapis.com,REJECT
+DOMAIN,footprints-pa.googleapis.com,REJECT
+DOMAIN,imasdk.googleapis.com,REJECT
+DOMAIN,safebrowsing.googleapis.com,REJECT
