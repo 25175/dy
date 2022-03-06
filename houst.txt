@@ -19,6 +19,8 @@ DOMAIN,rogueamoeba.net,REJECT
 DOMAIN,murusfirewall.com,REJECT
 DOMAIN,www.murusfirewall.com,REJECT
 DOMAIN,www.zhenbuka2.com,REJECT
+
+###
 DOMAIN,creative-adchoices.advertise.quantcast.com,REJECT
 DOMAIN,adsgo.nhipcaudautu.vn,REJECT
 DOMAIN,clientmetrics-pa.googleapis.com,REJECT
