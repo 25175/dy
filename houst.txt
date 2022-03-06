@@ -33,3 +33,11 @@ DOMAIN,firebaselogging.googleapis.com,REJECT
 DOMAIN,footprints-pa.googleapis.com,REJECT
 DOMAIN,imasdk.googleapis.com,REJECT
 DOMAIN,safebrowsing.googleapis.com,REJECT
+DOMAIN,adsserving,REJECT
+DOMAIN,adssea.byspotify.com,REJECT
+DOMAIN,HOST-SUFFIX,adssend.net,REJECT
+DOMAIN,avoadsservices.com,REJECT
+DOMAIN,googleadsserving.cn,REJECT
+DOMAIN,k1.mobileadsserver.com,REJECT
+DOMAIN,static.googeadsserving.cn,REJECT
+DOMAIN,static.googleadsserving.cn,REJECT
