@@ -1,4 +1,4 @@
-# Update time : 2022.03.06
+# Update time : 2022.07.15
 
 DOMAIN,192.168.0.0/16,REJECT
 DOMAIN,10.0.0.0/8,REJECT
