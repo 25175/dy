@@ -19,7 +19,8 @@ DOMAIN,rogueamoeba.net,REJECT
 DOMAIN,murusfirewall.com,REJECT
 DOMAIN,www.murusfirewall.com,REJECT
 DOMAIN,www.zhenbuka2.com,REJECT
-
+127.0.0.1 prod.legit.maketheweb.pl
+127.0.0.1 更新.getcleanshot.com
 ###
 DOMAIN,creative-adchoices.advertise.quantcast.com,REJECT
 DOMAIN,adsgo.nhipcaudautu.vn,REJECT
