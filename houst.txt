@@ -1,10 +1,10 @@
 # Update time : 2023.03.04
 
-DOMAIN,10.0.0.0/8,REJECT
-DOMAIN,172.16.0.0/12,REJECT
+#DOMAIN,10.0.0.0/8,REJECT
+#DOMAIN,172.16.0.0/12,REJECT
 # DOMAIN,127.0.0.1
-DOMAIN,localhost,REJECT
-DOMAIN,*.local,REJECT
+#DOMAIN,localhost,REJECT
+#DOMAIN,*.local,REJECT
 DOMAIN,bettertouchtool.net,REJECT
 DOMAIN,updates.bettertouchtool.net,REJECT
 DOMAIN,folivora.ai,REJECT
