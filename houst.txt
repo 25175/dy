@@ -1,10 +1,5 @@
 # Update time : 2023.03.04
 
-#DOMAIN,10.0.0.0/8,REJECT
-#DOMAIN,172.16.0.0/12,REJECT
-# DOMAIN,127.0.0.1
-#DOMAIN,localhost,REJECT
-#DOMAIN,*.local,REJECT
 DOMAIN,bettertouchtool.net,REJECT
 DOMAIN,updates.bettertouchtool.net,REJECT
 DOMAIN,folivora.ai,REJECT
@@ -18,8 +13,8 @@ DOMAIN,rogueamoeba.net,REJECT
 DOMAIN,murusfirewall.com,REJECT
 DOMAIN,www.murusfirewall.com,REJECT
 DOMAIN,www.zhenbuka2.com,REJECT
-127.0.0.1 prod.legit.maketheweb.pl
-127.0.0.1 更新.getcleanshot.com
+DOMAIN,prod.legit.maketheweb.pl,REJECT
+DOMAIN,更新.getcleanshot.com,REJECT
 ###
 DOMAIN,creative-adchoices.advertise.quantcast.com,REJECT
 DOMAIN,adsgo.nhipcaudautu.vn,REJECT
